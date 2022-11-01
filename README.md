@@ -20,7 +20,7 @@ cat ~/.ssh/id_rsa.pub
 
 ```bash
 # Cloning the source code
-git clone https://github.com/ldynia/flask-init-mini.git
+git clone https://github.com/sutton-jason/flask-init-mini2.git
 cd flask-init-mini
 
 # Building and running docker container
